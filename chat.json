@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, working on adding a button with the text \"Megha\".",
+        "message_id": "guest27082024091027",
+        "timestamp": "27082024091029",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Megha",
         "message_id": "guest27082024091027",
