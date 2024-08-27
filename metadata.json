@@ -4,5 +4,6 @@
     "project_description": "an app for building the Delivery app ",
     "creation_time": "2024-08-27 09:09:09.873433",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, surreal color palette dominated by purples and pinks, showcasing a cosmic landscape with celestial bodies against a mountainous terrain. The style is otherworldly and dreamy, utilizing gradients and reflections to create a visually captivating scene."
 }
