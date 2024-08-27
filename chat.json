@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Megha' button to be positioned on the screen?\", \"option1\": \"In the top navigation bar\", \"option2\": \"At the bottom of the screen within user's easy reach.\"}, {\"question 2\": \"What action should be triggered when the 'Megha' button is clicked?\", \"option1\": \"Open a new page with more information\", \"option2\": \"Trigger a pop-up with a special message or form\"}], \"input_token_count\": 273, \"output_token_count\": 109, \"time_taken\": \"0:00:03.826286\"}",
+        "message_id": "guest27082024091027",
+        "timestamp": "27082024091033",
+        "component_file_name": "simple_cta_component_1724749751",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, working on adding a button with the text \"Megha\".",
         "message_id": "guest27082024091027",
